@@ -1,6 +1,6 @@
 # agrotis_task
 
-Spring Boot API Rest - Cadastro de pessoas
+Spring Boot API Rest - Cadastro de cliente
 
 Tecnologias: Java 17, Spring Boot, Spring MVC, Spring Data JPA, banco de dados em memória.
 
